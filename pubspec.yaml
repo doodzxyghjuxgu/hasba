@@ -1,0 +1,16 @@
+name: pro_calculator
+description: Professional Calculator App - احترافية بتصميم عصري
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  math_expressions: ^2.6.0
+  google_fonts: ^6.1.0
+
+flutter:
+  uses-material-design: true
